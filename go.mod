@@ -1,5 +1,5 @@
-module github.com/Erer1995/cupid-usage
+module github.com/zzerer/cupid-usage
 
 go 1.16
 
-require github.com/Erer1995/cupid v0.1.0
+require github.com/zzerer/cupid v1.0.0

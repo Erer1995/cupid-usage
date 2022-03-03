@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/Erer1995/cupid-usage/usage"
+	"github.com/zzerer/cupid-usage/usage"
 )
 
 func main() {

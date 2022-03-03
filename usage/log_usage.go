@@ -5,7 +5,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Erer1995/cupid/log"
+	"github.com/zzerer/cupid/log"
 )
 
 func LogModuleUsage() {
